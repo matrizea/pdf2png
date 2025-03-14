@@ -47,7 +47,7 @@ The script will convert each page of `sample.pdf` into PNG images. For example, 
 
 ## Code Example
 
-Below is the complete code for `pdf_to_png.py`:
+Below is the complete code for `pdf2png.py`:
 
     import sys
     import os
@@ -93,7 +93,7 @@ To summarize, perform the following steps:
 2. Install Poppler according to your operating system.
 3. Run the script:
    
-       python pdf_to_png.py sample.pdf
+       python pdf2png.py sample.pdf
 
 Each page of the PDF will be saved as a PNG image in the same directory.
 
