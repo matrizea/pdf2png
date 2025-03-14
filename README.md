@@ -37,7 +37,7 @@ Depending on your operating system, follow one of the instructions below:
 
 Once the dependencies are installed, run the script by passing the PDF file as an argument:
 
-    python pdf_to_png.py sample.pdf
+    python pdf2png.py sample.pdf
 
 The script will convert each page of `sample.pdf` into PNG images. For example, if your PDF file is named `sample.pdf`, the output files will be named:
 
